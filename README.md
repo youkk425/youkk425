@@ -20,7 +20,7 @@
 [![VS Code](https://img.shields.io/badge/VsCode-编辑器-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC)](https://code.visualstudio.com/)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-安卓-3DDC84?style=flat-square&logo=android-studio&labelColor=ffffff&logoColor=000000)](https://developer.android.com/studio)
 [![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-客户端-2088FF?style=flat-square&logo=github&labelColor=ffffff&logoColor=000000)](https://desktop.github.com/)
-#### other
+#### others
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91?style=flat-square&logo=visual-studio&labelColor=ffffff&logoColor=000000)](https://visualstudio.microsoft.com/zh-hans/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-Python-21d789?style=flat-square&logo=PyCharm&labelColor=ffffff&logoColor=000000)](https://www.jetbrains.com/zh-cn/pycharm/)
 [![SSMS](https://img.shields.io/badge/SSMS-22-C42B1C?style=flat-square&logo=microsoft-sql-server&labelColor=ffffff&logoColor=000000)](https://learn.microsoft.com/zh-cn/sql/ssms/download-sql-server-management-studio-ssms)
