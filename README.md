@@ -3,11 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=Welcome+to+my+profile!;I'm+youkk425&center=true&size=22" alt="Typing SVG" />
 </a>
 </div>
-<<<<<<< HEAD
+<!-- 贪吃蛇动画 -->
 <div align="center"><img src="https://raw.githubusercontent.com/youkk425/youkk425/refs/heads/output/github-contribution-grid-snake-dark.svg" /></div>
-=======
-![](https://github.com/youkk425/youkk425/blob/output/github-contribution-grid-snake-dark.svg)
->>>>>>> 10788f35b550667c9417d8831064400c785594db
 
 #### Platforms
 
