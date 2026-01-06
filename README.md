@@ -39,22 +39,19 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-3.11-326C9C?logo=Python&logoColor=326C9C)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 
 <br>
-
 ## My Tech Stack
 
 <!-- Tech Stack SVG Icons -->
 <div>
-	<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" style="margin-right: 50px; margin-bottom: 10px;" />
-	<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" style="margin-right: 50px; margin-bottom: 10px;" />
-	<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" style="margin-right: 50px; margin-bottom: 10px;" />
-	<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" style="margin-right: 50px; margin-bottom: 10px;" /> 
+	<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS"  width="65" style="margin-right: 50px; margin-bottom: 10px;" />
 	<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" style="margin-right: 50px; margin-bottom: 10px;" />
-	<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" style="margin-right: 50px; margin-bottom: 10px;" />
+	<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" style="margin-right: 50px; margin-bottom: 10px;" />
+	<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" style="margin-right: 50px; margin-bottom: 10px;" />
+	<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" style="margin-right: 50px; margin-bottom: 10px;" /> 
+	<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" style="margin-right: 50px; margin-bottom: 10px;" />
 </div>
 
 
