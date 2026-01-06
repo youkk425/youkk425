@@ -3,14 +3,11 @@
 </div>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/youkk425/youkk425/blob/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
 <a href="https://youkk425.github.io/">
   <img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=Welcome+to+my+profile!;I'm+youkk425&center=true&size=22" alt="Typing SVG" />
 </a>
 </div>
+![](https://github.com/youkk425/youkk425/blob/output/github-contribution-grid-snake-dark.svg)
 
 #### Platforms
 
