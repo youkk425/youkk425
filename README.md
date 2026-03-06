@@ -6,7 +6,11 @@
 </div>
 
 <!-- 贪吃蛇动画 -->
-<div align="center"><img src="https://raw.githubusercontent.com/youkk425/youkk425/refs/heads/output/github-contribution-grid-snake-dark.svg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/youkk425/youkk425/refs/heads/output/github-contribution-grid-snake-dark.svg" /></div>  
+
+<p align="center">
+  <img src="https://count.getloli.com/@winterking?name=winterking&theme=original-new&padding=10&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="counter" />
+</p>
 
 ## Platforms
 
